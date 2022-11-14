@@ -29,5 +29,6 @@ function findByProp(find) {
 		})
 		.exports.a;
 }
-getStateNode().state.unlocks = Object.keys(findByProp("UFO"));
+getStateNode().state.unlocks = Object.keys(findByProp("Megabot
+						      "));
 getStateNode().forceUpdate();
